@@ -1,5 +1,7 @@
 ### [泥芹有宿根，一寸嗟独在。](https://niqin.com)
 
+In muddy soil, celery is always alone. But there are perennial roots, even if only one inch long.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
